@@ -26,6 +26,7 @@ nav {
     float: right; 
     padding: 75px 25px;
 }
+
 nav ul li{
     display: inline-block;
 }
@@ -117,6 +118,7 @@ header h2 span {
     padding: 0 50px;
 }
 
+
 /***** CONTACT *****/
 
 #contact {
@@ -184,4 +186,3 @@ header h2 span {
 #contact ul img {
     padding-right: 48px;
 }
-
